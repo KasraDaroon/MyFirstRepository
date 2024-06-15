@@ -1,0 +1,7 @@
+Account Number: 1000
+Account Type: checking
+Account Holder: Adam
+Initial Balance: $3761
+Transactions:
+Deposit: $500
+Current Balance: $4261
